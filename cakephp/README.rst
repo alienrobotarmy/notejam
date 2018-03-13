@@ -86,3 +86,5 @@ Always prepend your commits with framework name:
     CakePHP: Implemented sign in functionality
 
 Read `contribution guide <https://github.com/komarserjio/notejam/blob/master/contribute.rst>`_ for details.
+
+test
